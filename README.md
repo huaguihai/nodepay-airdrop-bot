@@ -14,7 +14,7 @@ To get started with the Nodepay Airdrop Bot:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dante4rt/nodepay-airdrop-bot.git
+    git clone [https://github.com/dante4rt/nodepay-airdrop-bot.git](https://github.com/huaguihai/nodepay-airdrop-bot)
     cd nodepay-airdrop-bot
     ```
 
